@@ -1,0 +1,171 @@
+body{
+    background-color: lightblue;
+    
+}
+
+
+#encabezado {
+    background-color: white;
+
+}
+
+
+.indexInicio {
+    background-color: lightblue;
+    width: 100px;
+    height: auto;
+    border: 1px solid black;
+    font-family: 'Noto Sans', sans-serif;
+    margin-right: 50x;
+}
+
+
+.lavadosLink {
+    background-color: lightblue;
+    width: 100px;
+    height: auto;
+    border: 1px solid black;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+
+.limpiezaLink {
+    background-color: lightblue;
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+.pulidosLink {
+    background-color: lightblue;
+    width: 100px;
+    height: auto;
+    border: 1px solid black;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+.polarizadosLink {
+    background-color: lightblue;
+    width: 100px;
+    height: auto;
+    border: 1px solid black;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 0px;
+    margin-left: 500px;
+
+}
+
+
+#intro {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+#negocio h2 {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px;
+    
+}
+
+
+#negocio .yo {
+    font-family: 'Noto Sans', sans-serif; 
+    border: 1px solid;
+    width: 1000px;
+    height: auto;
+
+}
+
+
+.img1 {
+    width: 500x;
+    height: 350px;
+}
+
+
+.img2 {
+    width: 500px;
+    height: 400px;
+}
+
+
+.img3 {
+    width: 500px;
+    height: 350;
+}
+
+
+section h2 {
+    font-family: monospace;
+    font-size: 40px;
+}
+
+
+.tipoLavado {
+    margin: auto;
+    padding: auto;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.lavadoConvencional {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.lavadoConMotor {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.lavadoPremuim {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.pulidoAbrillantado {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.limpiezaInterior {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.limpiezaDentro {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+.polarizado {
+    margin: left 0px;
+    padding: 40px;;
+    font-family: monospace;
+    font-size: 20px;
+}

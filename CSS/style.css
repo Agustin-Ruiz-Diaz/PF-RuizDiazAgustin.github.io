@@ -1,4 +1,4 @@
-body{
+#body{
     background-color: lightblue;
     
 }
@@ -9,6 +9,11 @@ body{
 
 }
 
+.nosotrosIntro{
+    font-family:'Noto Sans', sans-serif;
+    padding: 50px;
+    background-color: lightblue;
+}
 
 .indexInicio {
     background-color: lightblue;

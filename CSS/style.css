@@ -15,54 +15,6 @@
     background-color: lightblue;
 }
 
-.indexInicio {
-    background-color: lightblue;
-    width: 100px;
-    height: auto;
-    border: 1px solid black;
-    font-family: 'Noto Sans', sans-serif;
-    margin-right: 50x;
-}
-
-
-.lavadosLink {
-    background-color: lightblue;
-    width: 100px;
-    height: auto;
-    border: 1px solid black;
-    font-family: 'Noto Sans', sans-serif;
-
-}
-
-
-.limpiezaLink {
-    background-color: lightblue;
-    width: 150px;
-    height: auto;
-    border: 1px solid black;
-    font-family: 'Noto Sans', sans-serif;
-}
-
-
-.pulidosLink {
-    background-color: lightblue;
-    width: 100px;
-    height: auto;
-    border: 1px solid black;
-    font-family: 'Noto Sans', sans-serif;
-}
-
-
-.polarizadosLink {
-    background-color: lightblue;
-    width: 100px;
-    height: auto;
-    border: 1px solid black;
-    font-family: 'Noto Sans', sans-serif;
-    margin-top: 0px;
-    margin-left: 500px;
-
-}
 
 
 #intro {
@@ -125,8 +77,17 @@ section h2 {
     padding: 40px;;
     font-family: monospace;
     font-size: 20px;
+    
+        
+
 }
 
+.raptor{
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 30px #000;
+}
 
 .lavadoConMotor {
     margin: left 0px;

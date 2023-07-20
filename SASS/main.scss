@@ -40,20 +40,26 @@
 
 
 .img1 {
+    border-radius: 8px;
     width: 500x;
     height: 350px;
+    box-shadow: 0px 0px 30px #000;
 }
 
 
 .img2 {
+    border-radius: 8px;
     width: 500px;
     height: 400px;
+    box-shadow: 0px 0px 30px #000;
 }
 
 
 .img3 {
+    border-radius: 8px;
     width: 500px;
-    height: 350;
+    height: 350px;
+    box-shadow: 0px 0px 30px #000;
 }
 
 
@@ -86,6 +92,7 @@ section h2 {
     width: 500px;
     height: 350px;
     box-shadow: 0px 0px 30px #000;
+    
 }
 
 .lavadoConMotor {
@@ -160,5 +167,5 @@ section h2 {
 }
 
 .piePagina .grupo1 .box figure img{
-     width: 250px;
+     width: 20px;
 }
